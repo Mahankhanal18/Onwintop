@@ -1,0 +1,9 @@
+Array ( [link
+] => 
+[name] => Balaji Salesroom 
+[description] => Balaji Salesroom 
+[welcome_message] => https: //res.cloudinary.com/tellselling/video/upload/v1666689100/bt5nl1igddf6rvgpt7ci.mp4 
+[expert] => Nipa Samanta 
+[contents] => [{"id":0,"name":"Test1","icon":"fa-calendar","contents":[{"id":"1052","data_id":"1054","name":"Test File 1","thumbnail":"https://res.cloudinary.com/tellselling/image/upload/v1666653377/vv3h2safgmr6auw6dohb.jpg","type":"File","modification_date":"2022-10-25","creator":"Nipa Samanta"},{"id":"1053","data_id":"6","name":"Test Video","thumbnail":"https://res.cloudinary.com/tellselling/image/upload/v1666653502/osrwcdbdj29pksb17zpg.png","type":"Video","modification_date":"2022-10-25","creator":"Nipa Samanta"}]}] 
+[type] => Public 
+[thumbnail] => https://res.cloudinary.com/tellselling/image/upload/v1666689130/z1dq6ejrjzxwpympvj2l.jpg )

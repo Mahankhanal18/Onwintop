@@ -1,0 +1,10 @@
+{
+    "require": {
+        "cloudinary/cloudinary_php": "^2",
+        "sendgrid/sendgrid": "~7",
+        "google/apiclient": "~2",
+        "pusher/pusher-php-server": "^7.0",
+        "vlucas/phpdotenv": "^5.5",
+        "josantonius/cookie": "^2.0"
+    }
+}

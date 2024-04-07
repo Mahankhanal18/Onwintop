@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Roboto&display=swap');
+:root{
+    --theme:#e85a52;
+}
+body{
+    /*font-family: 'Roboto', sans-serif;*/
+    font-family: 'Lato', sans-serif;
+}
+.leftpanel{
+    padding-bottom:400px;
+    height:900px !important;
+    background-color: var(--theme);
+}
+.rightpanel{
+    height:100vh !important;
+}
+.form-control{
+    border:none;
+    border-radius: 0px;
+    border-bottom: 1px solid #a1a1a1 !important;
+}
+.form-control:focus{
+    border-color: none !important;
+    box-shadow: none !important; 
+    color: var(--theme);
+}
+.btn:focus{
+    border-color: none !important;
+    box-shadow: none !important; 
+}
+.form-check-input:focus{
+    border-color: none !important;
+    box-shadow: none !important; 
+    color: var(--theme);
+}
+.operation-holder{
+    width:100%;
+    position:fixed;
+    z-index: 9;
+    bottom: 0px;
+}
+.operation-board{
+    background-color: #ffffff !important;
+    border-top: 1px solid #ebebeb;
+    box-shadow: 0px 0px 10px #ebebeb;
+    padding:10px;
+}
+.form-check-input:checked {
+    background-color: var(--theme);
+    border-color: var(--theme);
+}
+select:focus{
+    border-color: none !important;
+    box-shadow: none !important; 
+}
+.form-check-label{
+    color:#a1a1a1;
+    font-size: 13px;
+}
+.theme-holder:hover{
+    cursor: pointer;
+}
